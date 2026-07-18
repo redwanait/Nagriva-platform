@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nagriva Blog</title>
+    <link>https://nagriva.com/#/blog</link>
+    <description>Insights, tutorials and resources about AI Employees, automation, productivity and business growth.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://nagriva.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing Nagriva AI Employees</title>
+      <link>https://nagriva.com/#/blog/introducing-nagriva-ai-employees</link>
+      <guid isPermaLink="false">introducing-nagriva-ai-employees</guid>
+      <pubDate>Wed, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>5 Ways AI Employees Transform Customer Support</title>
+      <link>https://nagriva.com/#/blog/5-ways-ai-employees-transform-customer-support</link>
+      <guid isPermaLink="false">5-ways-ai-employees-transform-customer-support</guid>
+      <pubDate>Tue, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Business</category>
+    </item>
+  </channel>
+</rss>
